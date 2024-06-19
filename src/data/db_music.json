@@ -1,0 +1,64 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Beginner Guitar Lessons",
+      "slug": "beginner-guitar-lessons",
+      "instructor": "Alex Johnson",
+      "isfeatured": true,
+      "price": 39.99,
+      "description": "Start your guitar journey with our beginner lessons. Learn basic chords, strumming patterns, and simple songs.",
+      "image": "https://example.com/images/beginner-guitar.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Advanced Piano Techniques",
+      "slug": "advanced-piano-techniques",
+      "instructor": "Maria Rodriguez",
+      "isfeatured": true,
+      "price": 59.99,
+      "description": "Enhance your piano skills with advanced techniques and complex pieces. Perfect for experienced pianists looking to improve.",
+      "image": "https://example.com/images/advanced-piano.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Vocal Training Masterclass",
+      "slug": "vocal-training-masterclass",
+      "instructor": "John Smith",
+      "isfeatured": true,
+      "price": 49.99,
+      "description": "Develop your voice with our vocal training masterclass. Learn breath control, vocal exercises, and performance techniques.",
+      "image": "https://example.com/images/vocal-training.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Drumming Fundamentals",
+      "slug": "drumming-fundamentals",
+      "instructor": "Emily Davis",
+      "isfeatured": false,
+      "price": 44.99,
+      "description": "Learn the basics of drumming, including rhythm, basic beats, and coordination exercises. Ideal for beginner drummers.",
+      "image": "https://example.com/images/drumming-fundamentals.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Jazz Improvisation for Saxophone",
+      "slug": "jazz-improvisation-saxophone",
+      "instructor": "David Lee",
+      "isfeatured": true,
+      "price": 69.99,
+      "description": "Master jazz improvisation on the saxophone with this comprehensive course. Learn scales, modes, and improvisation techniques.",
+      "image": "https://example.com/images/jazz-saxophone.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Music Theory Essentials",
+      "slug": "music-theory-essentials",
+      "instructor": "Linda Nguyen",
+      "isfeatured": true,
+      "price": 29.99,
+      "description": "Understand the fundamentals of music theory, including scales, chords, and harmony. A must-have course for all musicians.",
+      "image": "https://example.com/images/music-theory.jpg"
+    }
+  ]
+}
